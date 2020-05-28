@@ -1,26 +1,4 @@
-/*-------------------------------------------------
- =  Table of Css
 
- 1.Header
- 2.Isotope filtering
- 3.General
- 4.image post
- 5.standard post
- 6.video post
- 7.article post
- 8.posts list
- 9.List posts with thumbnails
- 10.news-sections
- 11.subscribe-sections
- 12.instagram section
- 13.sidebar
- 14.error 404 section
- 15.about us
- 16.Single Post
- 17.Contact
- 18.Footer
- 19.Responsive Part
--------------------------------------------------*/
 .reset-elem, .dropdown, .mega-dropdown, .mega-dropdown ul.filter-list, ul.post-tags, ul.filter-list, .pagination-box ul.pagination-list, .page-list ul, ul.posts-list, ul.list-thumb-posts, section.instagram-section .insta-list, section.instagram-line-section ul.insta-list, .sidebar .widget.social-widget ul.social-list, .sidebar .widget ul.list-posts, .sidebar .widget ul.category-list, .sidebar .widget ul.insta-list, section.about-section .team-post ul.team-social, .single-post .single-post-content .post-content .post-social ul.share-post, .single-post .single-post-content .post-content .post-content-text .share-tags-box ul.tags, .single-post .single-post-content .post-content .post-content-text .share-tags-box ul.shares-likes, .comments__list, footer ul.social-list {
   margin: 0;
   padding: 0; }
