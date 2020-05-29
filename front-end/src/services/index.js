@@ -1,9 +1,10 @@
 import axios from 'axios';
 let baseURL;
+console.log(process.env.NODE_ENV)
 
 process.env.NODE_ENV === 'production'
-  //? (baseURL = 'here should be your production endpoint')
-  ? (baseURL = window.location.origin)
+  ? (baseURL = 'https://frozen-refuge-85243.herokuapp.com')
+  // ? (baseURL = window.location.origin)
   : (baseURL = 'http://localhost:5001');
 
 const service = axios.create({ withCredentials: true, baseURL });
