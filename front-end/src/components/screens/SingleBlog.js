@@ -5,6 +5,8 @@ import Breadcrumbs from "../parts/Breadcrumbs";
 import Comment from "../parts/Comment"
 import CommentForm from '../parts/CommentForm';
 
+
+// update frgance 
 export default class SingleBlog extends Component {
     componentDidMount() {
 
